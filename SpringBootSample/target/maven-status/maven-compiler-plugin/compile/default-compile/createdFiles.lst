@@ -1,0 +1,9 @@
+com\example\SpringBootSample\controller\BookCategoryController.class
+com\example\SpringBootSample\model\Book.class
+com\example\SpringBootSample\model\BookCategory.class
+com\example\SpringBootSample\repository\BookCategoryRepository.class
+com\example\SpringBootSample\SpringBootSampleApplication.class
+com\example\SpringBootSample\controller\HomeController.class
+com\example\SpringBootSample\service\BookCategoryService.class
+com\example\SpringBootSample\service\BookCategoryServiceImp.class
+com\example\SpringBootSample\SwaggerConfig.class
